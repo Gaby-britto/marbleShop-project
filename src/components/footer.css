@@ -1,0 +1,15 @@
+.containerFooter{
+    background-color: rgba(46, 10, 10, 0.692);
+    height: 100px;
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.containerFooter img{
+    text-align: center;
+    margin-top: 25px;
+    height: 50px;
+    width: 300px;
+}
+

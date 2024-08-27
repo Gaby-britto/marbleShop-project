@@ -4,8 +4,7 @@ import Header from "./components/Header";
 import Banner from "./components/Banner";
 import Cards from "./components/Cards";
 import Form from './components/form';
-
-
+import Footer from './components/footer';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -16,6 +15,7 @@ function App() {
       <Banner/>
       <Cards/>
       <Form />
+      <Footer/>
     </>
   )
 }

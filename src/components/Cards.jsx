@@ -11,7 +11,6 @@ const Cards = () => {
         <div className="card">
           <img src={img1} alt="" className="card-img" />
           <div className="card-content">
-            <h2 className="card-title">Mármore</h2>
             <p className="card-text">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae
               architecto nihil molestias suscipit, iure perspiciatis explicabo
@@ -22,7 +21,6 @@ const Cards = () => {
         <div className="card">
           <img src={img2} alt="" className="card-img" />
           <div className="card-content">
-            <h2 className="card-title">Mármore</h2>
             <p className="card-text">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae
               architecto nihil molestias suscipit, iure perspiciatis explicabo
@@ -33,7 +31,6 @@ const Cards = () => {
         <div className="card">
           <img src={img3} alt="" className="card-img" />
           <div className="card-content">
-            <h2 className="card-title">Mármore</h2>
             <p className="card-text">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae
               architecto nihil molestias suscipit, iure perspiciatis explicabo
@@ -44,7 +41,6 @@ const Cards = () => {
         <div className="card">
           <img src={img4} alt="" className="card-img" />
           <div className="card-content">
-            <h2 className="card-title">Mármore</h2>
             <p className="card-text">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae
               architecto nihil molestias suscipit, iure perspiciatis explicabo

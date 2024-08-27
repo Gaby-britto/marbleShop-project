@@ -37,6 +37,10 @@
     color: white;
 }
 
+.card-title h2{
+    color: white;
+}
+
 .containerCards h1{
     margin-top: 5px;
     margin-left: 25%;
